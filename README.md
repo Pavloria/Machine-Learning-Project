@@ -1,4 +1,4 @@
-# 🧠 CNN Image Classification Project
+# CNN Image Classification Project
 
 This project is part of the final assessment for the university module and involves developing a Convolutional Neural Network (CNN) model for image classification using PyTorch. The entire model training and evaluation process is conducted in Google Colab.
 
