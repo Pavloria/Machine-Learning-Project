@@ -25,19 +25,6 @@ The project focuses on solving a classification task using a custom CNN model tr
 - **Development Environment**: Google Colab
 - **Data Handling**: Google Drive
 
-## 📊 Visualizations
-
-Below are visualizations of training results:
-
-![Visualization 1](./visualization_1.png)  
-*Training and validation accuracy/loss curves*
-
-![Visualization 2](./visualization_2.png)  
-*Sample predictions with ground truth labels*
-
-![Visualization 3](./visualization_3.png)  
-*Model performance comparison across configurations*
-
 ## 🔁 Model Training Workflow
 
 1. Import necessary libraries
